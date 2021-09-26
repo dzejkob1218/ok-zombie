@@ -1,0 +1,701 @@
+fileFormatVersion: 2
+guid: 9e70e782e7168a34f99f4c9851015d37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2187387647614510351
+    second: 2DSprites_0
+  - first:
+      213: -1339200515030171563
+    second: 2DSprites_1
+  - first:
+      213: -8886535380535180863
+    second: 2DSprites_2
+  - first:
+      213: -8580051768064736015
+    second: 2DSprites_3
+  - first:
+      213: 6498593878171092824
+    second: 2DSprites_4
+  - first:
+      213: -3494930498967428979
+    second: 2DSprites_5
+  - first:
+      213: 6581897648052383738
+    second: 2DSprites_6
+  - first:
+      213: -4196425453602889438
+    second: 2DSprites_7
+  - first:
+      213: -2358872924269840082
+    second: 2DSprites_8
+  - first:
+      213: -8141689394681762322
+    second: 2DSprites_9
+  - first:
+      213: -1874935211899998570
+    second: 2DSprites_10
+  - first:
+      213: -7611344476093405832
+    second: 2DSprites_11
+  - first:
+      213: 3012080027467875634
+    second: 2DSprites_12
+  - first:
+      213: -3967945982876090184
+    second: 2DSprites_13
+  - first:
+      213: 8152625248579720652
+    second: Zombie_Idle
+  - first:
+      213: 199861772562946276
+    second: Zombie_Walk1
+  - first:
+      213: -6019595144184325129
+    second: Zombie_Walk2
+  - first:
+      213: -6946374763582992610
+    second: Zombie_IdleDown
+  - first:
+      213: -980281349663615485
+    second: Zombie_WalkUp1
+  - first:
+      213: -8553075299829517956
+    second: Zombie_WalkUp2
+  - first:
+      213: 1298827673328041835
+    second: Zombie_Die1
+  - first:
+      213: 7671065785904805907
+    second: Zombie_Die2
+  - first:
+      213: -8047574929802596671
+    second: Zombie_Die3
+  - first:
+      213: -3170908185056704183
+    second: 2DSprites_23
+  - first:
+      213: -6025869526465767478
+    second: 2DSprites_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2DSprites_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 63
+        width: 5
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102c12ced35a54345a0fa39f21fca4a7
+      internalID: -2187387647614510351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSprites_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 62
+        width: 5
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3fe1c68cefd6e4e853de58fa0d2870
+      internalID: -1339200515030171563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSprites_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 62
+        width: 5
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8b8e1cba8798a468a6beadc279e27e
+      internalID: -8886535380535180863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSprites_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63
+        width: 3
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593d224f422034e4dad13fc71768fe8f
+      internalID: -8580051768064736015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSprites_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 63
+        width: 3
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: -0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945fd9d572bd8514ab6457f3407d5f15
+      internalID: 6498593878171092824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSprites_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 63
+        width: 3
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: -0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631050bf38da1674b8d9d89b0b088f2a
+      internalID: -3494930498967428979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSprites_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 66
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a45c70e785e7a7439b11a4c6a262a58
+      internalID: 6581897648052383738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSprites_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918db43c22978ed48937985a4dd4304c
+      internalID: -4196425453602889438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSprites_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 65
+        width: 13
+        height: 10
+      alignment: 9
+      pivot: {x: 0.346, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0108777dc99f041bc039d21ef76910
+      internalID: -2358872924269840082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSprites_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 54
+        width: 11
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdec71ccd839ee54888f992f8857ef34
+      internalID: -8141689394681762322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSprites_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 56
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4659674665bf5a458124a47c78c0dd2
+      internalID: -1874935211899998570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSprites_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 50
+        width: 5
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cad2f52c9de4b42a9c26269fd9bbfd
+      internalID: -7611344476093405832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSprites_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 49
+        width: 11
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ab781f7c2c5f540b60a0cafd1d9d32
+      internalID: 3012080027467875634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSprites_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 48
+        width: 17
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fc7bf4460473243991166c4403ece3
+      internalID: -3967945982876090184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Idle
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 15
+        width: 6
+        height: 12
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdff2339e203544b8c02c9778b6de92
+      internalID: 8152625248579720652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Walk1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 15
+        width: 6
+        height: 12
+      alignment: 9
+      pivot: {x: 0.25, y: -0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b03e01f4889b1f4ab3c9516a608f690
+      internalID: 199861772562946276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Walk2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 6
+        height: 12
+      alignment: 9
+      pivot: {x: 0.25, y: -0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35d547675106f84baae308406d83c92
+      internalID: -6019595144184325129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_IdleDown
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 15
+        width: 5
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f80e5c0d6ef1f34ba172cbe5ab489bb
+      internalID: -6946374763582992610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_WalkUp1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 15
+        width: 5
+        height: 12
+      alignment: 9
+      pivot: {x: 0.45, y: -0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead1df39dbb4644896004ebfe816939
+      internalID: -980281349663615485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_WalkUp2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 15
+        width: 5
+        height: 12
+      alignment: 9
+      pivot: {x: 0.55, y: -0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afb8f11d94df304fa59ef66d73f5f57
+      internalID: -8553075299829517956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Die1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 15
+        width: 8
+        height: 13
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbda5de911bcdf408160ecc91de528f
+      internalID: 1298827673328041835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Die2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 15
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54742ac779600045b6e43d0a7e075ab
+      internalID: 7671065785904805907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_Die3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3
+        width: 15
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c36a890636ef2c4a84d745f64a884bf
+      internalID: -8047574929802596671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSprites_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 39
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2792eff79170a7b45a8f5fe899d8d153
+      internalID: -3170908185056704183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSprites_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 45
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c4db52b8af4604b9dce640a212a5b4
+      internalID: -6025869526465767478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 55d6135b40c133243a63e2959feb8dec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

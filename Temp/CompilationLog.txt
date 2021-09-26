@@ -1,0 +1,40 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1c321b47520aa21faae73046f428efbc
+# Starting compiling UnityEngine.UI.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-adf1ca632aab32292a07aade26b7972d
+# Starting compiling Purchasing.Common.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7e29fd7cbe34079e88b1f03c81701fe2
+# Starting compiling UnityEngine.Purchasing.WinRTCore.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b80e2851bc6968e78851ae5ca2305836
+# Starting compiling Unity.Timeline.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-96131016c43cb7b2eb3deaeb29b0975f
+# Starting compiling Unity.TextMeshPro.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d26eb9d91773f086dae20f0aa7488ed9
+# Starting compiling UnityEngine.Advertisements.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-463b00fda43a5aec5bf770feb7df5163
+# Starting compiling Unity.Analytics.DataPrivacy.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e43f45ced72a80f0ebe862bd4ce41424
+# Starting compiling UnityEngine.Purchasing.SecurityCore.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-14b04c90e4b55934cbc7b2ca3903454e
+# Starting compiling AstarPathfindingProject.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b51b3edc28cc5442aaa9c73de78f9e69
+# Starting compiling UnityEngine.Purchasing.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-19ae056450f1b7c4aa171eb706c5212a
+# Starting compiling UnityEngine.Purchasing.WinRTStub.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1de27d3699690c7faa3cad78dee7b17b
+# Starting compiling UnityEngine.Purchasing.AppleCore.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-97f606d621847ee97bb057fc268e5f3a
+# Starting compiling UnityEngine.Purchasing.Security.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2c0408dc8b623896c86bace0f09f0720
+# Starting compiling UnityEngine.Monetization.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3df293dca266ffdbf8fdcd6ea5af1e36
+# Starting compiling UnityEngine.Purchasing.AppleMacos.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-24602a76aa2fa2127a57e012678615d4
+# Starting compiling UnityEngine.Purchasing.AppleStub.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-887e6ba36ddff7c43be1a8e1c47de58d
+# Starting compiling UnityEngine.Purchasing.Stores.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-861e95558573b76e2a6de48a0d094868
+# Starting compiling UnityEngine.Purchasing.Codeless.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9c37c4c1fe642b32dbb739dff06733f5
+# Starting compiling Assembly-CSharp.dll
+/home/judek/code/Unity/2020.3.17f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b149e9029db2aa19282e487f3f173c33

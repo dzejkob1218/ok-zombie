@@ -1,0 +1,917 @@
+fileFormatVersion: 2
+guid: 09296715f5264f64bb51a7a8ef55522e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1185019394295298291
+    second: Pistol_HoldRight
+  - first:
+      213: 2006588274417896851
+    second: Pistol_HoldDown
+  - first:
+      213: -1904726760545313753
+    second: Pistol_HoldUp
+  - first:
+      213: -2115802580912564581
+    second: Pistol
+  - first:
+      213: 8683870117654745051
+    second: Pistol_ShootRight
+  - first:
+      213: -1493315196739473829
+    second: Pistol_ShootDown
+  - first:
+      213: -6754282350768061134
+    second: Pistol_ShootUp
+  - first:
+      213: 1220795258326132728
+    second: Pistol_Ammo
+  - first:
+      213: -9119847945412571037
+    second: Pistol_Shot
+  - first:
+      213: -3908422490059248165
+    second: Shotgun_Ammo
+  - first:
+      213: 2207657530466928872
+    second: Shotgun_Bullet
+  - first:
+      213: 2367078194723261188
+    second: Rifle_Ammo
+  - first:
+      213: 2707335228778246050
+    second: Rifle_Bullet
+  - first:
+      213: 1214560291508296030
+    second: Shotgun_HoldRight
+  - first:
+      213: 2818695858884707103
+    second: Shotgun_HoldDown
+  - first:
+      213: -1520963718055513867
+    second: Shotgun_HoldUp
+  - first:
+      213: -6088518344708910600
+    second: Shotgun
+  - first:
+      213: -5548387776648033739
+    second: Shootgun_ShootRight
+  - first:
+      213: -2465529202758070581
+    second: Shotgun_ShootDown
+  - first:
+      213: -1965591461269776010
+    second: Shotgun_ShootUp
+  - first:
+      213: -5750121875600653543
+    second: Rifle_HoldRight
+  - first:
+      213: 3291354244530510870
+    second: Rifle_HoldDown
+  - first:
+      213: 7098592237760265265
+    second: Rifle_HoldUp
+  - first:
+      213: -4292712553443018290
+    second: Rifle
+  - first:
+      213: -1346855151603560354
+    second: Rifle_ShootRight
+  - first:
+      213: 1138601289743097565
+    second: Rifle_ShootDown
+  - first:
+      213: -1185019394295298291
+    second: WeaponSprites_0
+  - first:
+      213: -1747012516418059705
+    second: Sword_HoldRight
+  - first:
+      213: 3975066035290111000
+    second: Sword_HoldDown
+  - first:
+      213: -1495558447438580671
+    second: Sword_HoldUp
+  - first:
+      213: 6913651256732159732
+    second: Sword_HitRight
+  - first:
+      213: -7234251797700854769
+    second: Sword_HitDown
+  - first:
+      213: -9003613951832456149
+    second: Sword_HitUp
+  - first:
+      213: -1879306598302859882
+    second: Sword
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pistol_HoldRight
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 9
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af395b696c6a4443bb981be39840fb9
+      internalID: -1185019394295298291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_HoldDown
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 42
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faada5d97668d944ea9d035f8f71fa40
+      internalID: 2006588274417896851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_HoldUp
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 42
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b0f9b1479ebb04c850a1f1a6bd2736
+      internalID: -1904726760545313753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 42
+        width: 3
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010124c73d8d6b641a5a3f6d017af103
+      internalID: -2115802580912564581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_ShootRight
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 13
+        height: 9
+      alignment: 9
+      pivot: {x: 0.34, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6fc7f8d1196e649881f048563bb230
+      internalID: 8683870117654745051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_ShootDown
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 34
+        width: 11
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e690d97a2a40a5b4f9ae6b22efb5c92c
+      internalID: -1493315196739473829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_ShootUp
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 33
+        width: 9
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7412ae3e5f4354686afe29863653cd
+      internalID: -6754282350768061134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_Ammo
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 33
+        width: 26
+        height: 6
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f7d3b1bc407e84e9d0c00b9208e39b
+      internalID: 1220795258326132728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_Shot
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 40
+        width: 2
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df613c1c4bb72a04c8984ae3eff21bf4
+      internalID: -9119847945412571037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Ammo
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 50
+        width: 20
+        height: 6
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c21b5c7b8089de4e8b9c2564a5cd586
+      internalID: -3908422490059248165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_Bullet
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 57
+        width: 2
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02e56b36d5c2aa4baae1c71433324b0
+      internalID: 2207657530466928872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_Ammo
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 66
+        width: 38
+        height: 6
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5f7a02a419ce94eaa3015a29c5a3bf
+      internalID: 2367078194723261188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_Bullet
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 73
+        width: 2
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261cbbc2ed17e3748a46a80bb3aafbac
+      internalID: 2707335228778246050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_HoldRight
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 7
+        height: 3
+      alignment: 9
+      pivot: {x: 0.49, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c11a0a84ed88534a970314caf84a16f
+      internalID: 1214560291508296030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_HoldDown
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 58
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887a56c79334f8a4e83f5ee0ca492677
+      internalID: 2818695858884707103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_HoldUp
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 58
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a812bdb155a5748a8f76a3d8a8c2a2
+      internalID: -1520963718055513867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 59
+        width: 5
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed9b027b650841409e4c2e9b945668b
+      internalID: -6088518344708910600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shootgun_ShootRight
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0.37, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2727617438b79419d4e2a2f01dfe99
+      internalID: -5548387776648033739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_ShootDown
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0.54, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021df90069a209f408f92cd762497d06
+      internalID: -2465529202758070581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_ShootUp
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 47
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea15bc8957b07c42a9d4e6bd9e9bcb8
+      internalID: -1965591461269776010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_HoldRight
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 9
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d4270cf2bf51842b83a99dc86882fb
+      internalID: -5750121875600653543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_HoldDown
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 74
+        width: 5
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa9a888041e8614c8b5a372b344d95b
+      internalID: 3291354244530510870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_HoldUp
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 75
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31403527cdfc3b8498a872e92931e6e3
+      internalID: 7098592237760265265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 75
+        width: 6
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be80e4ac96cd2d34fba4fb76296f56e1
+      internalID: -4292712553443018290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_ShootRight
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.34615386, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a455a167e3430488aa6d5aff2a212a
+      internalID: -1346855151603560354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_ShootDown
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 64
+        width: 11
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bf879ee83790e46a10f95c1071b687
+      internalID: 1138601289743097565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponSprites_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 63
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a1584bf174c3b408f30ac5075616c6
+      internalID: -1185019394295298291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_HoldRight
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 23
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0.2777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d809f109c244d04da318f471fea9f90
+      internalID: -1747012516418059705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_HoldDown
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 23
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.75, y: 0.2777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9621c5e5a84854f91ae8e40b2a9119
+      internalID: 3975066035290111000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_HoldUp
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 23
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0.2777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e64b1a1549d7e2499ddf1edbbee0e86
+      internalID: -1495558447438580671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_HitRight
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.14388812, y: 0.6112849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b18af8f1f31cce4b9ba65134f172890
+      internalID: 6913651256732159732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_HitDown
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3
+        width: 17
+        height: 15
+      alignment: 9
+      pivot: {x: 0.32565364, y: 0.69759256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afa861db85c6a241bf05df35f043cac
+      internalID: -7234251797700854769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_HitUp
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 19
+        width: 17
+        height: 12
+      alignment: 9
+      pivot: {x: 0.69289446, y: 0.11637624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434dcfcabecfe754d9af2f3b74300774
+      internalID: -9003613951832456149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 21
+        width: 8
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91ebcbbc0f50924c8ef61a810f7e6fd
+      internalID: -1879306598302859882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b306150f5cc5a4545bbd0dde2def66eb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
