@@ -21,11 +21,15 @@ It's how many you can take with you.
 
 # How to play
 **W, S, A, D** - Run
+
 **Left Mouse** - Shoot
+
 **Right Mouse** - Punch
+
 **G** - Throw grenade
 
 **Esc** - Exit game
+
 **Y** - Restart
 
 
