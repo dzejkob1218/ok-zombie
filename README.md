@@ -1,6 +1,6 @@
 **A quick 2D shooter game made with Unity**
 
-Hordes of undead rise up from their graves to rob you of your blood.
+Hordes of undead rise up from their graves to rob you of your life.
 
 
 
