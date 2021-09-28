@@ -2,14 +2,13 @@
 
 **A quick 2D shooter game made with Unity**
 
-Hordes of undead rise up from their graves to rob you of your life.
-
-
 
 ![Gameplay video](gifs/fight1.gif)
 
 
 ## Beware
+
+Hordes of undead rise up from their graves to rob you of your life.
 
 Each drop of undead blood spilled only draws more hungry bodies to the fight.
 
