@@ -1,2 +1,2 @@
 A quick 2D shooter made with Unity
-![Screenshot](gifs/fight.gif)
+![Screenshot](https://imgur.com/GhSOrME)
