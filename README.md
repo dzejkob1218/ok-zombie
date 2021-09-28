@@ -1,3 +1,5 @@
+# OK Zombie
+
 **A quick 2D shooter game made with Unity**
 
 Hordes of undead rise up from their graves to rob you of your life.
@@ -9,7 +11,7 @@ Hordes of undead rise up from their graves to rob you of your life.
 
 ## Beware
 
-Each drop of undead blood spilled draws only more hungry bodies to the fight.
+Each drop of undead blood spilled only draws more hungry bodies to the fight.
 
 The question is not if you can survive. 
 
