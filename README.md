@@ -4,17 +4,27 @@
 ![Gameplay video](gifs/fight1.gif)
 
 
-## Hordes of undead rise up from their graves to rob you of your blood.
-
+## 
+Hordes of undead rise up from their graves to rob you of your blood.
 The question is not if you can survive. It's how many you can take with you.
 
 ![Gameplay video](gifs/fight.gif)
 
 
 # How to play
+**W, S, A, D** - Run
+**Left Mouse** - Shoot
+**Right Mouse** - Punch
+**G** - Throw grenade
+
+**Esc** - Exit game
+**Y** - Restart
+
+
 ![Gameplay video](gifs/fight3.gif)
 
 
 ## Watch out
+Contains inappropriate language (in Polish).
 ![Gameplay video](gifs/fight2.gif)
 
