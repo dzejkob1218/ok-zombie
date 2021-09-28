@@ -39,5 +39,9 @@ It's how many you can take with you.
 
 ## Watch out
 Contains inappropriate language (in Polish).
+
 ![Gameplay video](gifs/fight2.gif)
+
+
+Find the binary for your system in the [https://github.com/dzejkob1218/ok-zombie/releases](releases)!
 
