@@ -1,6 +1,6 @@
 # OK Zombie
 
-**A quick 2D shooter game made with Unity**
+**A simple 2D shooter game made with Unity**
 
 
 ![Gameplay video](gifs/fight1.gif)
