@@ -10,9 +10,9 @@
 
 Hordes of undead rise up from their graves to rob you of your life.
 
-Each drop of undead blood spilled only draws more hungry bodies to the fight.
+Each drop of blood spilled only draws more hungry bodies to the fight.
 
-The question is not if you can survive. 
+The question is not whether you can survive. 
 
 It's how many you can take with you.
 
